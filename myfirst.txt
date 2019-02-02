@@ -1,2 +1,5 @@
-git�Ńo�[�W�����Ǘ����s���܂��B
-���ɂ͂��߂܂���I
+﻿gitでバージョン管理を行います。
+ついにはじめますよ！
+
+・git add
+・git commit
